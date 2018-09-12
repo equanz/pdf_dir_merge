@@ -33,8 +33,8 @@ optional arguments:
 
 ## Contribute
 Welcome!
-Plese go to [Issues](./issues) or [Pull requests](./pulls)
+Plese go to [Issues](https://github.com/equanz/pdf_dir_merge/issues) or [Pull requests](https://github.com/equanz/pdf_dir_merge/pulls)
 
 ## License
-See [here](./LICENSE.txt)
+See [here](https://github.com/equanz/pdf_dir_merge/blob/master/LICENSE.txt)
 
