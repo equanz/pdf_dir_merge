@@ -7,14 +7,14 @@ You should install pipenv before.
 1. install pip dependencies
 2. start pipenv shell
 3. start `main.py`
-```python3
+```bash
 $ pipenv install
 $ pipenv shell
 $ python main.py
 ```
 
 ## Option
-```python3
+```bash
 $ python main.py --help
 usage: main.py [-h] [-l LEVEL] [--name NAME] dir dest
 
